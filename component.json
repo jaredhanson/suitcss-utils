@@ -3,13 +3,13 @@
     "repo": "suitcss/utils",
     "version": "0.5.0",
     "dependencies": {
-        "jaredhanson/suit-utils-dimension": "component",
-        "jaredhanson/suit-utils-display": "component",
-        "jaredhanson/suit-utils-layout": "component",
-        "jaredhanson/suit-utils-link": "component",
-        "jaredhanson/suit-utils-space": "component",
-        "jaredhanson/suit-utils-state": "component",
-        "jaredhanson/suit-utils-text": "component"
+        "jaredhanson/suitcss-utils-dimension": "component",
+        "jaredhanson/suitcss-utils-display": "component",
+        "jaredhanson/suitcss-utils-layout": "component",
+        "jaredhanson/suitcss-utils-link": "component",
+        "jaredhanson/suitcss-utils-space": "component",
+        "jaredhanson/suitcss-utils-state": "component",
+        "jaredhanson/suitcss-utils-text": "component"
     },
     "author": "Nicolas Gallagher",
     "license": "MIT"
